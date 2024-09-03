@@ -1,1 +1,1 @@
-<h1> This is website from github actions workflow </h1>
+<h1> This is website from github Pages and actions </h1>
